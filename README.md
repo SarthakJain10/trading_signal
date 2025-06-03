@@ -52,30 +52,24 @@ SmartTrade is a **Streamlit-based web application** that provides **live stock p
 
 ---
 
-## ▶️ Usage
+## ▶️ **Usage**
 
 Run the Streamlit app:
 
 ```bash
-streamlit run app.py
+streamlit run streamlit-trading-app.py
 ```
 
 Once launched, you can:
 
-* Enter a stock ticker (e.g., `AAPL`, `TSLA`, `GOOGL`)
+* Enter a stock ticker (e.g., `TCS`, `LT`, `ADANIPORTS`)
 * View its live candlestick chart
 * Observe dynamic Bollinger Bands
 * Get real-time buy/sell alerts based on the latest candle
 
 ---
 
-## 📷 Screenshots
-
-> *(Include screenshots of your app showing candlestick + buy/sell indicators if possible)*
-
----
-
-## 📚 How it Works
+## 📚 **How it Works**
 
 The core logic uses **Bollinger Bands**, a popular technical analysis tool:
 
@@ -94,7 +88,7 @@ This helps identify **oversold** and **overbought** conditions.
 
 ---
 
-## 🧠 Future Improvements
+## 🧠 **Future Improvements**
 
 * Add user portfolio tracking
 * Send email/SMS alerts on buy/sell signals
@@ -103,9 +97,9 @@ This helps identify **oversold** and **overbought** conditions.
 
 ---
 
-## 📬 Contact
+## 📬 **Contact**
 
-Built with ❤️ by \[Your Name]
+Built with ❤️ by SARTHAK JAIN  
 If you like this project, feel free to ⭐️ the repo!
 
 ---
