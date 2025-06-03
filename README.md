@@ -24,7 +24,6 @@ SmartTrade is a **Streamlit-based web application** that provides **live stock p
 - **yfinance / Yahoo Finance API** – Real-time stock data
 - **Pandas & NumPy** – Data manipulation
 - **Plotly / Matplotlib** – Chart rendering
-- **TA-Lib / pandas-ta** – Bollinger Bands & technical analysis
 
 ---
 
