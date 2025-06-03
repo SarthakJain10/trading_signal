@@ -42,6 +42,7 @@ SmartTrade is a **Streamlit-based web application** that provides **live stock p
    python -m venv venv
    source venv/bin/activate   # On Windows: venv\Scripts\activate
    ```
+````
 
 3. Install dependencies:
 
@@ -49,7 +50,7 @@ SmartTrade is a **Streamlit-based web application** that provides **live stock p
    pip install -r requirements.txt
    ```
 
----
+````
 
 ## ▶️ Usage
 
