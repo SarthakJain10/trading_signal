@@ -28,29 +28,6 @@ SmartTrade is a **Streamlit-based web application** that provides **live stock p
 
 ---
 
-## 📥 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/smarttrade-bollinger.git
-   cd smarttrade-bollinger
-   ```
-````
-
-2. Create a virtual environment (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
-   ```
-````
-
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-````
-
----
 
 ## ▶️ **Usage**
 
